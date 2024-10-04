@@ -1,0 +1,52 @@
+
+.menu{
+        position: fixed;
+        top: 0;
+        min-width: 100%;
+        z-index: 1000;
+        background-color: rgb(85, 14, 14);
+        line-height: 9px;
+}
+.header_text{
+    padding-top: 80px;
+    font-size: 25px;
+
+}
+.name{
+    text-align: center;
+    font-size:larger;
+    letter-spacing: 10px;
+    font-size: 40px;
+}
+.str{
+    text-align: center;
+    word-spacing: 100px;
+}
+.talisman{
+    text-align: justify;
+}
+img{
+    align-items: end;
+}
+.div{
+    display:flex;
+
+}
+
+.we{
+    position: absolute;
+    text-align: justify;
+    font-size: 28px;
+    margin-top: 0px;
+
+}
+.ccl{
+    Word-spacing: 100px;
+    margin-left: 37%;
+}
+html, body {
+    width:100%;
+    height:100%;
+    margin:0;
+    padding:0;
+}
